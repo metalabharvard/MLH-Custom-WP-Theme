@@ -1,0 +1,168 @@
+10
+
+dir
+17
+https://adam.law.harvard.edu/svn/metalab/trunk/javascript/jquery/development-bundle/demos
+https://adam.law.harvard.edu/svn/metalab
+
+
+
+2011-02-08T19:45:20.396148Z
+3
+jshapins
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9f475b03-32b6-447f-a3c0-ce50392d6dcb
+
+resizable
+dir
+
+show
+dir
+
+toggle
+dir
+
+slider
+dir
+
+removeClass
+dir
+
+switchClass
+dir
+
+progressbar
+dir
+
+tabs
+dir
+
+effect
+dir
+
+demos.css
+file
+
+
+
+
+2010-08-27T01:27:50.000000Z
+2e2ec04700af4ac5681a956cfe405c47
+2011-02-08T19:45:20.396148Z
+3
+jshapins
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14338
+
+dialog
+dir
+
+autocomplete
+dir
+
+accordion
+dir
+
+selectable
+dir
+
+position
+dir
+
+images
+dir
+
+toggleClass
+dir
+
+droppable
+dir
+
+draggable
+dir
+
+hide
+dir
+
+index.html
+file
+
+
+
+
+2010-08-27T01:28:53.000000Z
+6affdc6d3635c74c2fd261608e2b770d
+2011-02-08T19:45:20.396148Z
+3
+jshapins
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15608
+
+datepicker
+dir
+
+button
+dir
+
+sortable
+dir
+
+animate
+dir
+
+addClass
+dir
+
